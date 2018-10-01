@@ -1,5 +1,4 @@
 # website
-What do we want? a site.. When do we want it? meh.
+What do we want? a site.. When do we want it? Soon
 
-This site uses this template:
-https://justfreetemplates.com/web-templates/view/3310.html
+This is the GitHub repository for the SUNY Polytechnic Computer Science Club website.

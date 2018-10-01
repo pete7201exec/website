@@ -1,0 +1,26 @@
+Body {
+  background-color: rgb(37, 37, 37);
+}
+
+#navigation {
+  background-color: rgb(93, 93, 93);
+}
+
+#navigation ul li a {
+  border: 2px solid rgb(163, 163, 163);
+  color: rgb(163, 163, 163);
+  font-family: monospace;
+  text-decoration: none;
+}
+
+#content {
+  border: 1px dashed white;
+}
+
+#content h1 {
+  color: rgb(160, 164, 162);
+}
+
+#content p {
+  color: rgb(163, 163, 163);
+}
