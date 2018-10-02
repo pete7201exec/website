@@ -1,9 +1,12 @@
 Body {
   background-color: rgb(37, 37, 37);
+  margin: 0;
 }
 
 #navigation {
   background-color: rgb(93, 93, 93);
+  display: inline-block;
+  overflow: hidden;
 }
 
 #navigation ul li a {
